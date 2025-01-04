@@ -28,5 +28,5 @@ Tools i work with:
 You can find me at:
 
 <a href='https://www.linkedin.com/in/daniel-fiaccadori-605361303/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=LinkedIn&logoColor=000000&labelColor=3F68AD&color=3F68AD'/></a>
-<a href='https://www.curseforge.com/members/dndats/projects' target="_blank"><img alt='Curseforge' src='https://img.shields.io/badge/Curseforge-100000?style=for-the-badge&logo=Curseforge&logoColor=FFFFFF&labelColor=F16436&color=000000'/></a>
+<a href='https://www.curseforge.com/members/danielfiaccadori69741/projects' target="_blank"><img alt='Curseforge' src='https://img.shields.io/badge/Curseforge-100000?style=for-the-badge&logo=Curseforge&logoColor=white&labelColor=FFA200&color=black'/></a>
 <a href='https://modrinth.com/dashboard/projects' target="_blank"><img alt='MOdrinth' src='https://img.shields.io/badge/Modrinth-100000?style=for-the-badge&logo=MOdrinth&logoColor=FFFFFF&labelColor=00AF5C&color=000000'/></a>
