@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danielFiaccadori/danielFiaccadori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](./header.png)
 
-Here are some ideas to get you started:
+## Hi there 👋, I'm Daniel Fiaccadori
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A passionate developer with an unshakable love for Java, always eager to turn bold and imaginative ideas into reality! 🚀
+  
+</div>
+
+- 🖥️ Currently on track to become a **fullstack developer**
+- 🧑‍🔬 Graduating in **Computer Science**
+- 🚌 Working on an undergraduate research project to improve transportation management services
+- ⛏🧱 My favorite hobby is making Mods for Minecraft
+- 🎹 I'm also a musicist and music teacher
