@@ -2,7 +2,7 @@
 
 ![Header](./header.png)
 
-## Hi there 👋, I'm Daniel Fiaccadori
+## Hi there 👋
 
 
 A passionate developer with an unshakable love for Java, always eager to turn bold and imaginative ideas into reality! 🚀
