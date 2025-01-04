@@ -2,8 +2,6 @@
 
 ![Header](./header.png)
 
-## Hi there 👋
-
 
 A passionate developer with an unshakable love for Java, always eager to turn bold and imaginative ideas into reality! 🚀
   
